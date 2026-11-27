@@ -257,7 +257,7 @@ This project was developed collaboratively by six students of B.Tech Computer Sc
 | Student Name | Registration Number |
 |---|---|
 | M. Manogna | AP24110011731 |
-| M. Krithika | AP24110011090 |
+| M. Kirthika | AP24110011090 |
 | K. Yasaswi | AP24110011744 |
 | D. Lokasree Ranga Priya | AP24110010619 |
 | P. Karthik | AP24110010659 |
